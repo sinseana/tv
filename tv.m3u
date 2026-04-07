@@ -2,9 +2,9 @@
               4K UHD
 #########################################
 
-#EXTINF:-1,tvg-id="UK: SKY SPORTS ULTRA 1 4K" group-title="4K",UK - SKY SPORTS ULTRA 1 4K
+#EXTINF:-1,tvg-id="UK: SKY SPORTS ULTRA 1 4K" group-title="4K UHD",UK - SKY SPORTS ULTRA 1 4K
 http://31.43.191.125:8080/VIP0113172679126129/51732389530751/146593
-#EXTINF:-1,tvg-id="UK: SKY SPORTS ULTRA 2 4K" group-title="4K",UK - SKY SPORTS ULTRA 2 4K
+#EXTINF:-1,tvg-id="UK: SKY SPORTS ULTRA 2 4K" group-title="4K UHD",UK - SKY SPORTS ULTRA 2 4K
 http://31.43.191.125:8080/VIP0113172679126129/51732389530751/146592
 
 
@@ -14,8 +14,7 @@ http://31.43.191.125:8080/VIP0113172679126129/51732389530751/146592
 #########################################
 
 
-#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK - SKY SPORTS NEWS FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsnews.png" group-title="UK SPORTS",UK - SKY SPORTS NEWS FHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577969.ts
+
 #EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK - SKY SPORTS NEWS UHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsnews.png" group-title="UK SPORTS",UK - SKY SPORTS NEWS UHD
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/577994.ts
 #EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK - SKY SPORTS PL UHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportspl.png" group-title="UK SPORTS",UK - SKY SPORTS PL UHD
@@ -42,7 +41,7 @@ http://2k.tstvs.com/691eba43db76f/d07ee0f057/577974.ts
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/577970.ts
 #EXTINF:-1 tvg-id="ViaplaySports1.uk" tvg-name="UK - PREMIER SPORTS 1 UHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="UK SPORTS",UK - PREMIER SPORTS 1 UHD
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/577982.ts
-#EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="UK - PREMIER SPORT 2 UHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="UK SPORTS",UK - PREMIER SPORT 2 UHD
+#EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="UK - PREMIER SPORTS 2 UHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="UK SPORTS",UK - PREMIER SPORTS 2 UHD
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/577981.ts
 
 #########################################
@@ -133,28 +132,16 @@ http://2k.tstvs.com/691eba43db76f/d07ee0f057/827926.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="UK : BT Sport 1 FHD" tvg-logo="" group-title="BT Sport",UK : BT Sport 1 FHD
 http://domestipo1.online:80/Antonioal2026/xFEAAKhdf6/601691.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK : BT Sport 1 HD" tvg-logo="" group-title="BT Sport",UK : BT Sport 1 HD
-http://domestipo1.online:80/Antonioal2026/xFEAAKhdf6/601692.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK : BT Sport 1 SD" tvg-logo="" group-title="BT Sport",UK : BT Sport 1 SD
-http://domestipo1.online:80/Antonioal2026/xFEAAKhdf6/601693.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="UK : BT Sport 2 FHD" tvg-logo="" group-title="BT Sport",UK : BT Sport 2 FHD
 http://domestipo1.online:80/Antonioal2026/xFEAAKhdf6/601694.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK : BT Sport 2 HD" tvg-logo="" group-title="BT Sport",UK : BT Sport 2 HD
-http://domestipo1.online:80/Antonioal2026/xFEAAKhdf6/601695.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK : BT Sport 2 SD" tvg-logo="" group-title="BT Sport",UK : BT Sport 2 SD
-http://domestipo1.online:80/Antonioal2026/xFEAAKhdf6/601696.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="UK : BT Sport 3 FHD" tvg-logo="" group-title="BT Sport",UK : BT Sport 3 FHD
 http://domestipo1.online:80/Antonioal2026/xFEAAKhdf6/601697.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK : BT Sport 3 FHD 50FPS" tvg-logo="" group-title="BT Sport",UK : BT Sport 3 FHD 50FPS
-http://domestipo1.online:80/Antonioal2026/xFEAAKhdf6/601698.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK : BT Sport 3 SD" tvg-logo="" group-title="BT Sport",UK : BT Sport 3 SD
-http://domestipo1.online:80/Antonioal2026/xFEAAKhdf6/601699.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="UK : BT Sport ESPN FHD 50FPS" tvg-logo="" group-title="BT Sport",UK : BT Sport ESPN FHD 50FPS
 http://domestipo1.online:80/Antonioal2026/xFEAAKhdf6/601700.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK : BT Sport ESPN HD" tvg-logo="" group-title="BT Sport",UK : BT Sport ESPN HD
-http://domestipo1.online:80/Antonioal2026/xFEAAKhdf6/601701.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK : BT Sport ESPN SD" tvg-logo="" group-title="BT Sport",UK : BT Sport ESPN SD
-http://domestipo1.online:80/Antonioal2026/xFEAAKhdf6/601702.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="UK : BT Sport Extra 3 (Event Only)" tvg-logo="" group-title="BT Sport",UK : BT Sport Extra 3 (Event Only)
 http://domestipo1.online:80/Antonioal2026/xFEAAKhdf6/601703.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK : BT Sport Extra 4 (Event Only)" tvg-logo="" group-title="BT Sport",UK : BT Sport Extra 4 (Event Only)
