@@ -1,7 +1,5 @@
 #EXTM3U
-#########################################
-              4K UHD
-#########################################
+
 
 
 #EXTINF:-1,group-title="4K UHD",UK - SKY SPORTS ULTRA 1 4K
@@ -12,9 +10,6 @@ http://31.43.191.125:8080/VIP0113172679126129/51732389530751/146592
 
 
 
-#########################################
-             UK - SKY SPORTS
-#########################################
 
 
 
@@ -68,9 +63,7 @@ http://2k.tstvs.com/691eba43db76f/d07ee0f057/577964.ts
 #EXTINF:-1 tvg-id="BTSport4ESPN.uk" tvg-name="UK - TNT SPORTS ESPN UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/TNT-SPORTS-ESPN.png" group-title="TNT SPORTS",UK - TNT SPORTS ESPN UHD
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/577998.ts
 
-#########################################
-             ASTRO SPORTS
-#########################################
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORT 1 4K" tvg-logo="http://51.158.145.100/picons/logos/logos/ASTRO-SUPERSPORTS-1.png" group-title="ASTRO SPORTS",UK - ASTRO SUPERSPORT 1 4K
@@ -88,9 +81,7 @@ http://2k.tstvs.com/691eba43db76f/d07ee0f057/828095.ts
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SPORTS 5 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="ASTRO SPORTS",UK - ASTRO SPORTS 5 HD
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/828094.ts
 
-#########################################
-             NOW HK PREMIER SPORTS
-#########################################
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="NOW HK PREMIER SPORTS 1" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-PREMIER-SPORTS1.png" group-title="NOW HK PREMIER SPORTS",UK - NOW HK PREMIER SPORTS 1
@@ -127,9 +118,7 @@ http://2k.tstvs.com/691eba43db76f/d07ee0f057/827926.ts
 
 
 
-#########################################
-            UK : BT Sport
-#########################################
+
 
 
 
