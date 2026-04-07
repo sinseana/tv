@@ -2,16 +2,12 @@
              4K
 #########################################
 
-#EXTINF:-1,UK: SKY SPORTS ULTRA 1 4K (Event Only)
+#EXTINF:-1,tvg-id="UK: SKY SPORTS ULTRA 1 4K" group-title="4K",UK - SKY SPORTS ULTRA 1 4K
 http://31.43.191.125:8080/VIP0113172679126129/51732389530751/146593
-#EXTINF:-1,UK: SKY SPORTS ULTRA 2 4K (Event Only)
+#EXTINF:-1,tvg-id="UK: SKY SPORTS ULTRA 2 4K" group-title="4K",UK - SKY SPORTS ULTRA 2 4K
 http://31.43.191.125:8080/VIP0113172679126129/51732389530751/146592
-#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SUPERSPORT 1 4K" tvg-logo="http://51.158.145.100/picons/logos/logos/ASTRO-SUPERSPORTS-1.png" group-title="4K",UK - ASTRO SUPERSPORT 1 4K
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828100.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SUPERSPORT 2 4K" tvg-logo="http://51.158.145.100/picons/logos/logos/ASTRO-SUPERSPORTS-2.png" group-title="4K",UK - ASTRO SUPERSPORT 2 4K
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828099.ts
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS MAIN EVENTS 4k" tvg-logo="https://logo.protv.cc/piconsnew/skysportsmainevent.png" group-title="4K",UK - SKY SPORTS MAIN EVENTS UHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577997.ts
+
+
 
 #########################################
              UK - SKY SPORTS
@@ -76,8 +72,7 @@ http://2k.tstvs.com/691eba43db76f/d07ee0f057/577998.ts
              ASTRO SPORTS
 #########################################
 
-#EXTINF:-1 tvg-id="" tvg-name="##### UK ASTRO SPORTS #####" tvg-logo="http://103.176.90.118/picons/logos/logos/UK.png" group-title=" ASTRO SPORTS",##### UK ASTRO SPORTS #####
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828101.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORT 1 4K" tvg-logo="http://51.158.145.100/picons/logos/logos/ASTRO-SUPERSPORTS-1.png" group-title="ASTRO SPORTS",UK - ASTRO SUPERSPORT 1 4K
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/828100.ts
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORT 2 4K" tvg-logo="http://51.158.145.100/picons/logos/logos/ASTRO-SUPERSPORTS-2.png" group-title="ASTRO SPORTS",UK - ASTRO SUPERSPORT 2 4K
