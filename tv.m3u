@@ -1,5 +1,5 @@
 #########################################
-             4K
+              4K UHD
 #########################################
 
 #EXTINF:-1,tvg-id="UK: SKY SPORTS ULTRA 1 4K" group-title="4K",UK - SKY SPORTS ULTRA 1 4K
@@ -55,7 +55,7 @@ http://2k.tstvs.com/691eba43db76f/d07ee0f057/578001.ts
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/578000.ts
 #EXTINF:-1 tvg-id="TNTSport3.uk" tvg-name="UK - TNT SPORTS 3 UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/TNT-SPORTS-3.png" group-title="TNT SPORTS",UK - TNT SPORTS 3 UHD
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/577999.ts
-#EXTINF:-1 tvg-id="TNTSport1.uk" tvg-name="UK - TNT SPORTS 1 FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/TNT-SPORTS-1.png" group-title="TNTSPORTS",UK - TNT SPORTS 1 FHD
+#EXTINF:-1 tvg-id="TNTSport1.uk" tvg-name="UK - TNT SPORTS 1 FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/TNT-SPORTS-1.png" group-title="TNT SPORTS",UK - TNT SPORTS 1 FHD
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/577967.ts
 #EXTINF:-1 tvg-id="TNTSport2.uk" tvg-name="UK - TNT SPORTS 2 FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/TNT-SPORTS-2.png" group-title="TNT SPORTS",UK - TNT SPORTS 2 FHD
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/577966.ts
